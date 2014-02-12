@@ -1,5 +1,11 @@
 *~
 .gradle
-/build
-/out
+build/
+gradle/
+out/
+*.iml
+target
+.classpath
+.project
+.idea
 
