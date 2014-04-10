@@ -1,11 +1,10 @@
 *~
 .gradle
 build/
-gradle/
 out/
 *.iml
 target
 .classpath
 .project
 .idea
-
+repo/
